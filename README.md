@@ -1,7 +1,8 @@
 # open-gl-cube-demo
 
 # About
-A Simple Cube with vertex color in openGL
+A Simple Cube with vertex color in openGL using
+GLSL Programmable pipeline
 
 ## Prerequisite
 
